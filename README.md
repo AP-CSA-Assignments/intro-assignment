@@ -1,10 +1,8 @@
 # intro-assignment
 
 ## Instructions
-1. Fork the assignment from GitHub classroom.
-2. Open Visual Studio (VS) Code on the computer.
-3. On the bottom left, click the person icon, and login to your GitHub account.
-4. Clone the correct repository.
+1. Accept the assignment.
+2. Open Visual Studio (VS) Code on the computer or by creating a Codespace by clicking the green Code button, and selecting the Codespace tab.
 5. Make changes to any files.
 6. Commit your files with a commit message.
 7. Synchronize your repository.
